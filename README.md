@@ -1,4 +1,4 @@
-# <Study Guide Website for the U of M Coding Bootcamp 2023>
+# Study Guide Website for the U of M Coding Bootcamp 2023
 
 ## Description
 
